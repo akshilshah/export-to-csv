@@ -15,6 +15,7 @@ yarn add export-to-csv
 ```javascript
 
 import { ExportToCsv } from 'export-to-csv';
+// const ExportToCsv = require("export-to-csv").ExportToCsv; //using es6 way
 
 var data = [
   {
